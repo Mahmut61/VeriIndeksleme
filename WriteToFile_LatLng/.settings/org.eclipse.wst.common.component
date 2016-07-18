@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WriteToFile_LatLng">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent"/>
+        <property name="java-output-path" value="/WriteToFile_LatLng/build/classes"/>
+        <property name="context-root" value="WriteToFile_LatLng"/>
+    </wb-module>
+</project-modules>
